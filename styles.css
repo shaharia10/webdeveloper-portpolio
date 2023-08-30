@@ -211,3 +211,12 @@ hr {
     text-align: center;
     margin-top: 50px;
 }
+
+/* footer styles */
+
+footer {
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 113px;
+    padding: 130px 200px;
+}
